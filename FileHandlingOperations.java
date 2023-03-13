@@ -1,4 +1,5 @@
-//create a file 
+//File handling
+// 1.create a file 
 import java.io.File;
 class FileHandlingOperations
 {
