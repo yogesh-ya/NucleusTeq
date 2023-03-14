@@ -9,7 +9,7 @@ class Genericsex
 	al.add(20);
 	al.add(30);//integer type object
 	al.add("40");//String type object
-	al.add(50);
+	al.add(null);
 	System.out.println(al);
 	}
 }
