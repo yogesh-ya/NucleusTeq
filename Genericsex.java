@@ -7,8 +7,8 @@ class Genericsex
 	ArrayList al=new ArrayList();
 	al.add(10);
 	al.add(20);
-	al.add(30);
-	al.add("40");
+	al.add(30);//integer type object
+	al.add("40");//String type object
 	al.add(50);
 	System.out.println(al);
 	}
